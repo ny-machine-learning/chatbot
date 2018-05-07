@@ -1,0 +1,118 @@
+[
+  {
+    "id": "230b7777-cc13-4323-a54b-dcf3784ef1d4",
+    "data": [
+      {
+        "text": "wait a second",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f205161d-77bd-466d-8eac-24e702bfab98",
+    "data": [
+      {
+        "text": "don",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027t ",
+        "userDefined": false
+      },
+      {
+        "text": "rush",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3e3cd7e-cee0-41c5-a1fb-a47b22db17ae",
+    "data": [
+      {
+        "text": "could you wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d5709f9-e87b-438f-b2db-005df4d8e8a7",
+    "data": [
+      {
+        "text": "oh wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a267a5d-5055-4139-99f6-1d478b9cd7ca",
+    "data": [
+      {
+        "text": "wait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08f83e4f-0778-4a2b-abf1-6728dc22af51",
+    "data": [
+      {
+        "text": "wait hold ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31e3caf2-e6bf-4134-8bd5-146433333140",
+    "data": [
+      {
+        "text": "hold ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0d14d6c-e131-4ba0-9683-f904aa390e35",
+    "data": [
+      {
+        "text": "wait please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
